@@ -1,0 +1,128 @@
+[
+  {
+    "date": "2026-02-09",
+    "area": "FR",
+    "product": "Base",
+    "delivery": "202701",
+    "price": 49.35
+  },
+  {
+    "date": "2026-02-10",
+    "area": "FR",
+    "product": "Base",
+    "delivery": "202701",
+    "price": 48.71
+  },
+  {
+    "date": "2026-02-11",
+    "area": "FR",
+    "product": "Base",
+    "delivery": "202701",
+    "price": 49.16
+  },
+  {
+    "date": "2026-02-09",
+    "area": "FR",
+    "product": "Peak",
+    "delivery": "202701",
+    "price": 53.55
+  },
+  {
+    "date": "2026-02-10",
+    "area": "FR",
+    "product": "Peak",
+    "delivery": "202701",
+    "price": 52.87
+  },
+  {
+    "date": "2026-02-11",
+    "area": "FR",
+    "product": "Peak",
+    "delivery": "202701",
+    "price": 53.52
+  },
+  {
+    "date": "2026-02-09",
+    "area": "FR",
+    "product": "Base",
+    "delivery": "202801",
+    "price": 47.54
+  },
+  {
+    "date": "2026-02-10",
+    "area": "FR",
+    "product": "Base",
+    "delivery": "202801",
+    "price": 47.11
+  },
+  {
+    "date": "2026-02-11",
+    "area": "FR",
+    "product": "Base",
+    "delivery": "202801",
+    "price": 47.4
+  },
+  {
+    "date": "2026-02-09",
+    "area": "FR",
+    "product": "Peak",
+    "delivery": "202801",
+    "price": 53.48
+  },
+  {
+    "date": "2026-02-10",
+    "area": "FR",
+    "product": "Peak",
+    "delivery": "202801",
+    "price": 53.02
+  },
+  {
+    "date": "2026-02-11",
+    "area": "FR",
+    "product": "Peak",
+    "delivery": "202801",
+    "price": 53.45
+  },
+  {
+    "date": "2026-02-09",
+    "area": "FR",
+    "product": "Base",
+    "delivery": "202901",
+    "price": 49.08
+  },
+  {
+    "date": "2026-02-10",
+    "area": "FR",
+    "product": "Base",
+    "delivery": "202901",
+    "price": 48.7
+  },
+  {
+    "date": "2026-02-11",
+    "area": "FR",
+    "product": "Base",
+    "delivery": "202901",
+    "price": 48.91
+  },
+  {
+    "date": "2026-02-09",
+    "area": "FR",
+    "product": "Peak",
+    "delivery": "202901",
+    "price": 56.83
+  },
+  {
+    "date": "2026-02-10",
+    "area": "FR",
+    "product": "Peak",
+    "delivery": "202901",
+    "price": 56.63
+  },
+  {
+    "date": "2026-02-11",
+    "area": "FR",
+    "product": "Peak",
+    "delivery": "202901",
+    "price": 56.1
+  }
+]
