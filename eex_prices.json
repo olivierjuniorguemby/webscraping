@@ -1,16 +1,16 @@
 [
   {
-    "date": "2026-02-09",
-    "area": "FR",
-    "product": "Base",
-    "delivery": "202701",
+    "date": "2026_02_09",
+    "area": "FR_",
+    "product": "Base_",
+    "delivery": "202701_",
     "price": 4900.35
   },
   {
-    "date": "2026-02-10",
-    "area": "FR",
-    "product": "Base",
-    "delivery": "202701",
+    "date": "2026_02_10",
+    "area": "FR_",
+    "product": "Base_",
+    "delivery": "202701_",
     "price": 4800.71
   },
   {
@@ -127,3 +127,4 @@
   }
 
 ]
+
