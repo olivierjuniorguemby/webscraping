@@ -1,17 +1,17 @@
 [
   {
-    "date": "2026_02_09",
-    "area": "FR_",
-    "product": "Base_",
-    "delivery": "202701_",
-    "price": 4900.35
+    "date": "2026-02-09",
+    "area": "FR",
+    "product": "Base",
+    "delivery": "202701",
+    "price": 49.35
   },
   {
-    "date": "2026_02_10",
-    "area": "FR_",
-    "product": "Base_",
-    "delivery": "202701_",
-    "price": 4800.71
+    "date": "2026-02-10",
+    "area": "FR",
+    "product": "Base",
+    "delivery": "202701",
+    "price": 48.71
   },
   {
     "date": "2026-02-11",
@@ -19,6 +19,13 @@
     "product": "Base",
     "delivery": "202701",
     "price": 49.16
+  },
+  {
+    "date": "2026-02-12",
+    "area": "FR",
+    "product": "Base",
+    "delivery": "202701",
+    "price": 49.73
   },
   {
     "date": "2026-02-09",
@@ -42,6 +49,13 @@
     "price": 53.52
   },
   {
+    "date": "2026-02-12",
+    "area": "FR",
+    "product": "Peak",
+    "delivery": "202701",
+    "price": 53.93
+  },
+  {
     "date": "2026-02-09",
     "area": "FR",
     "product": "Base",
@@ -61,6 +75,13 @@
     "product": "Base",
     "delivery": "202801",
     "price": 47.4
+  },
+  {
+    "date": "2026-02-12",
+    "area": "FR",
+    "product": "Base",
+    "delivery": "202801",
+    "price": 48.56
   },
   {
     "date": "2026-02-09",
@@ -84,6 +105,13 @@
     "price": 53.45
   },
   {
+    "date": "2026-02-12",
+    "area": "FR",
+    "product": "Peak",
+    "delivery": "202801",
+    "price": 53.84
+  },
+  {
     "date": "2026-02-09",
     "area": "FR",
     "product": "Base",
@@ -105,6 +133,13 @@
     "price": 48.91
   },
   {
+    "date": "2026-02-12",
+    "area": "FR",
+    "product": "Base",
+    "delivery": "202901",
+    "price": 49.25
+  },
+  {
     "date": "2026-02-09",
     "area": "FR",
     "product": "Peak",
@@ -124,7 +159,13 @@
     "product": "Peak",
     "delivery": "202901",
     "price": 56.1
+  },
+  {
+    "date": "2026-02-12",
+    "area": "FR",
+    "product": "Peak",
+    "delivery": "202901",
+    "price": 56.63
   }
-
 ]
-
+>>>>>>> 83a11cb (TEST1 13/02/2026)
