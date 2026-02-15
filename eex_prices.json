@@ -28,6 +28,13 @@
     "price": 49.73
   },
   {
+    "date": "2026-02-13",
+    "area": "FR",
+    "product": "Base",
+    "delivery": "202701",
+    "price": 50.53
+  },
+  {
     "date": "2026-02-09",
     "area": "FR",
     "product": "Peak",
@@ -54,6 +61,13 @@
     "product": "Peak",
     "delivery": "202701",
     "price": 53.93
+  },
+  {
+    "date": "2026-02-13",
+    "area": "FR",
+    "product": "Peak",
+    "delivery": "202701",
+    "price": 54.3
   },
   {
     "date": "2026-02-09",
@@ -84,6 +98,13 @@
     "price": 48.56
   },
   {
+    "date": "2026-02-13",
+    "area": "FR",
+    "product": "Base",
+    "delivery": "202801",
+    "price": 49.8
+  },
+  {
     "date": "2026-02-09",
     "area": "FR",
     "product": "Peak",
@@ -110,6 +131,13 @@
     "product": "Peak",
     "delivery": "202801",
     "price": 53.84
+  },
+  {
+    "date": "2026-02-13",
+    "area": "FR",
+    "product": "Peak",
+    "delivery": "202801",
+    "price": 54.75
   },
   {
     "date": "2026-02-09",
@@ -140,6 +168,13 @@
     "price": 49.25
   },
   {
+    "date": "2026-02-13",
+    "area": "FR",
+    "product": "Base",
+    "delivery": "202901",
+    "price": 50.25
+  },
+  {
     "date": "2026-02-09",
     "area": "FR",
     "product": "Peak",
@@ -166,5 +201,12 @@
     "product": "Peak",
     "delivery": "202901",
     "price": 56.63
+  },
+  {
+    "date": "2026-02-13",
+    "area": "FR",
+    "product": "Peak",
+    "delivery": "202901",
+    "price": 56.93
   }
 ]
