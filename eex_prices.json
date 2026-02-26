@@ -103,26 +103,5 @@
     "product": "Base",
     "delivery": "202901",
     "price": 52.79
-  },
-  {
-    "date": "2026-02-23",
-    "area": "FR",
-    "product": "Peak",
-    "delivery": "202901",
-    "price": 60.94
-  },
-  {
-    "date": "2026-02-24",
-    "area": "FR",
-    "product": "Peak",
-    "delivery": "202901",
-    "price": 60.67
-  },
-  {
-    "date": "2026-02-25",
-    "area": "FR",
-    "product": "Peak",
-    "delivery": "202901",
-    "price": 60.44
   }
 ]
