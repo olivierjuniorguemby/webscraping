@@ -68,6 +68,38 @@
     "date": "2026-08-03",
     "area": "PEG",
     "product": null,
+    "delivery": "202901",
+    "price": 24.912
+  },
+  {
+    "market": "gas",
+    "date": "2026-08-04",
+    "area": "PEG",
+    "product": null,
+    "delivery": "202901",
+    "price": 24.714
+  },
+  {
+    "market": "gas",
+    "date": "2026-08-05",
+    "area": "PEG",
+    "product": null,
+    "delivery": "202901",
+    "price": 24.481
+  },
+  {
+    "market": "gas",
+    "date": "2026-08-06",
+    "area": "PEG",
+    "product": null,
+    "delivery": "202901",
+    "price": 25.022
+  },
+  {
+    "market": "gas",
+    "date": "2026-08-03",
+    "area": "PEG",
+    "product": null,
     "delivery": "203001",
     "price": 22.75
   },
