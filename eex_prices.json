@@ -1,482 +1,98 @@
 [
   {
     "market": "gas",
-    "date": "2026-10-26",
+    "date": "2026-11-02",
     "area": "PEG",
     "product": null,
     "delivery": "202701",
-    "price": 77.122
+    "price": 74.468
   },
   {
     "market": "gas",
-    "date": "2026-10-27",
-    "area": "PEG",
-    "product": null,
-    "delivery": "202701",
-    "price": 75.749
-  },
-  {
-    "market": "gas",
-    "date": "2026-10-28",
-    "area": "PEG",
-    "product": null,
-    "delivery": "202701",
-    "price": 78.704
-  },
-  {
-    "market": "gas",
-    "date": "2026-10-29",
-    "area": "PEG",
-    "product": null,
-    "delivery": "202701",
-    "price": 76.918
-  },
-  {
-    "market": "gas",
-    "date": "2026-10-30",
-    "area": "PEG",
-    "product": null,
-    "delivery": "202701",
-    "price": 80.692
-  },
-  {
-    "market": "gas",
-    "date": "2026-10-26",
+    "date": "2026-11-02",
     "area": "PEG",
     "product": null,
     "delivery": "202801",
-    "price": 48.269
+    "price": 46.038
   },
   {
     "market": "gas",
-    "date": "2026-10-27",
-    "area": "PEG",
-    "product": null,
-    "delivery": "202801",
-    "price": 48.009
-  },
-  {
-    "market": "gas",
-    "date": "2026-10-28",
-    "area": "PEG",
-    "product": null,
-    "delivery": "202801",
-    "price": 49.451
-  },
-  {
-    "market": "gas",
-    "date": "2026-10-29",
-    "area": "PEG",
-    "product": null,
-    "delivery": "202801",
-    "price": 48.539
-  },
-  {
-    "market": "gas",
-    "date": "2026-10-30",
-    "area": "PEG",
-    "product": null,
-    "delivery": "202801",
-    "price": 49.549
-  },
-  {
-    "market": "gas",
-    "date": "2026-10-26",
+    "date": "2026-11-02",
     "area": "PEG",
     "product": null,
     "delivery": "202901",
-    "price": 34.724
+    "price": 33.254
   },
   {
     "market": "gas",
-    "date": "2026-10-27",
-    "area": "PEG",
-    "product": null,
-    "delivery": "202901",
-    "price": 34.568
-  },
-  {
-    "market": "gas",
-    "date": "2026-10-28",
-    "area": "PEG",
-    "product": null,
-    "delivery": "202901",
-    "price": 35.229
-  },
-  {
-    "market": "gas",
-    "date": "2026-10-29",
-    "area": "PEG",
-    "product": null,
-    "delivery": "202901",
-    "price": 34.989
-  },
-  {
-    "market": "gas",
-    "date": "2026-10-30",
-    "area": "PEG",
-    "product": null,
-    "delivery": "202901",
-    "price": 35.22
-  },
-  {
-    "market": "gas",
-    "date": "2026-10-26",
+    "date": "2026-11-02",
     "area": "PEG",
     "product": null,
     "delivery": "203001",
-    "price": 29.255
-  },
-  {
-    "market": "gas",
-    "date": "2026-10-27",
-    "area": "PEG",
-    "product": null,
-    "delivery": "203001",
-    "price": 28.725
-  },
-  {
-    "market": "gas",
-    "date": "2026-10-28",
-    "area": "PEG",
-    "product": null,
-    "delivery": "203001",
-    "price": 29.075
-  },
-  {
-    "market": "gas",
-    "date": "2026-10-29",
-    "area": "PEG",
-    "product": null,
-    "delivery": "203001",
-    "price": 28.925
-  },
-  {
-    "market": "gas",
-    "date": "2026-10-30",
-    "area": "PEG",
-    "product": null,
-    "delivery": "203001",
-    "price": 29.225
+    "price": 28
   },
   {
     "market": "power",
-    "date": "2026-10-26",
+    "date": "2026-11-02",
     "area": "FR",
     "product": "Base",
     "delivery": "202701",
-    "price": 121.35
+    "price": 119.62
   },
   {
     "market": "power",
-    "date": "2026-10-27",
-    "area": "FR",
-    "product": "Base",
-    "delivery": "202701",
-    "price": 120.34
-  },
-  {
-    "market": "power",
-    "date": "2026-10-28",
-    "area": "FR",
-    "product": "Base",
-    "delivery": "202701",
-    "price": 124.05
-  },
-  {
-    "market": "power",
-    "date": "2026-10-29",
-    "area": "FR",
-    "product": "Base",
-    "delivery": "202701",
-    "price": 122.61
-  },
-  {
-    "market": "power",
-    "date": "2026-10-30",
-    "area": "FR",
-    "product": "Base",
-    "delivery": "202701",
-    "price": 128.16
-  },
-  {
-    "market": "power",
-    "date": "2026-10-26",
+    "date": "2026-11-02",
     "area": "FR",
     "product": "Peak",
     "delivery": "202701",
-    "price": 128.02
+    "price": 127.19
   },
   {
     "market": "power",
-    "date": "2026-10-27",
-    "area": "FR",
-    "product": "Peak",
-    "delivery": "202701",
-    "price": 127.2
-  },
-  {
-    "market": "power",
-    "date": "2026-10-28",
-    "area": "FR",
-    "product": "Peak",
-    "delivery": "202701",
-    "price": 131.04
-  },
-  {
-    "market": "power",
-    "date": "2026-10-29",
-    "area": "FR",
-    "product": "Peak",
-    "delivery": "202701",
-    "price": 129.67
-  },
-  {
-    "market": "power",
-    "date": "2026-10-30",
-    "area": "FR",
-    "product": "Peak",
-    "delivery": "202701",
-    "price": 134.4
-  },
-  {
-    "market": "power",
-    "date": "2026-10-26",
+    "date": "2026-11-02",
     "area": "FR",
     "product": "Base",
     "delivery": "202801",
-    "price": 70.77
+    "price": 69.33
   },
   {
     "market": "power",
-    "date": "2026-10-27",
-    "area": "FR",
-    "product": "Base",
-    "delivery": "202801",
-    "price": 70.75
-  },
-  {
-    "market": "power",
-    "date": "2026-10-28",
-    "area": "FR",
-    "product": "Base",
-    "delivery": "202801",
-    "price": 71.47
-  },
-  {
-    "market": "power",
-    "date": "2026-10-29",
-    "area": "FR",
-    "product": "Base",
-    "delivery": "202801",
-    "price": 69.89
-  },
-  {
-    "market": "power",
-    "date": "2026-10-30",
-    "area": "FR",
-    "product": "Base",
-    "delivery": "202801",
-    "price": 70.94
-  },
-  {
-    "market": "power",
-    "date": "2026-10-26",
+    "date": "2026-11-02",
     "area": "FR",
     "product": "Peak",
     "delivery": "202801",
-    "price": 82.5
+    "price": 81.03
   },
   {
     "market": "power",
-    "date": "2026-10-27",
-    "area": "FR",
-    "product": "Peak",
-    "delivery": "202801",
-    "price": 82.28
-  },
-  {
-    "market": "power",
-    "date": "2026-10-28",
-    "area": "FR",
-    "product": "Peak",
-    "delivery": "202801",
-    "price": 83.1
-  },
-  {
-    "market": "power",
-    "date": "2026-10-29",
-    "area": "FR",
-    "product": "Peak",
-    "delivery": "202801",
-    "price": 81.94
-  },
-  {
-    "market": "power",
-    "date": "2026-10-30",
-    "area": "FR",
-    "product": "Peak",
-    "delivery": "202801",
-    "price": 82.9
-  },
-  {
-    "market": "power",
-    "date": "2026-10-26",
+    "date": "2026-11-02",
     "area": "FR",
     "product": "Base",
     "delivery": "202901",
-    "price": 62.96
+    "price": 61.78
   },
   {
     "market": "power",
-    "date": "2026-10-27",
-    "area": "FR",
-    "product": "Base",
-    "delivery": "202901",
-    "price": 62.53
-  },
-  {
-    "market": "power",
-    "date": "2026-10-28",
-    "area": "FR",
-    "product": "Base",
-    "delivery": "202901",
-    "price": 63.14
-  },
-  {
-    "market": "power",
-    "date": "2026-10-29",
-    "area": "FR",
-    "product": "Base",
-    "delivery": "202901",
-    "price": 62.48
-  },
-  {
-    "market": "power",
-    "date": "2026-10-30",
-    "area": "FR",
-    "product": "Base",
-    "delivery": "202901",
-    "price": 62.97
-  },
-  {
-    "market": "power",
-    "date": "2026-10-26",
+    "date": "2026-11-02",
     "area": "FR",
     "product": "Peak",
     "delivery": "202901",
-    "price": 76.38
+    "price": 76.43
   },
   {
     "market": "power",
-    "date": "2026-10-27",
-    "area": "FR",
-    "product": "Peak",
-    "delivery": "202901",
-    "price": 75.88
-  },
-  {
-    "market": "power",
-    "date": "2026-10-28",
-    "area": "FR",
-    "product": "Peak",
-    "delivery": "202901",
-    "price": 76.77
-  },
-  {
-    "market": "power",
-    "date": "2026-10-29",
-    "area": "FR",
-    "product": "Peak",
-    "delivery": "202901",
-    "price": 76.94
-  },
-  {
-    "market": "power",
-    "date": "2026-10-30",
-    "area": "FR",
-    "product": "Peak",
-    "delivery": "202901",
-    "price": 77.7
-  },
-  {
-    "market": "power",
-    "date": "2026-10-26",
+    "date": "2026-11-02",
     "area": "FR",
     "product": "Base",
     "delivery": "203001",
-    "price": 63.93
+    "price": 62.21
   },
   {
     "market": "power",
-    "date": "2026-10-27",
-    "area": "FR",
-    "product": "Base",
-    "delivery": "203001",
-    "price": 63.59
-  },
-  {
-    "market": "power",
-    "date": "2026-10-28",
-    "area": "FR",
-    "product": "Base",
-    "delivery": "203001",
-    "price": 63.51
-  },
-  {
-    "market": "power",
-    "date": "2026-10-29",
-    "area": "FR",
-    "product": "Base",
-    "delivery": "203001",
-    "price": 62.79
-  },
-  {
-    "market": "power",
-    "date": "2026-10-30",
-    "area": "FR",
-    "product": "Base",
-    "delivery": "203001",
-    "price": 63.4
-  },
-  {
-    "market": "power",
-    "date": "2026-10-26",
+    "date": "2026-11-02",
     "area": "FR",
     "product": "Peak",
     "delivery": "203001",
-    "price": 77.13
-  },
-  {
-    "market": "power",
-    "date": "2026-10-27",
-    "area": "FR",
-    "product": "Peak",
-    "delivery": "203001",
-    "price": 76.98
-  },
-  {
-    "market": "power",
-    "date": "2026-10-28",
-    "area": "FR",
-    "product": "Peak",
-    "delivery": "203001",
-    "price": 77.53
-  },
-  {
-    "market": "power",
-    "date": "2026-10-29",
-    "area": "FR",
-    "product": "Peak",
-    "delivery": "203001",
-    "price": 77.7
-  },
-  {
-    "market": "power",
-    "date": "2026-10-30",
-    "area": "FR",
-    "product": "Peak",
-    "delivery": "203001",
-    "price": 78.26
+    "price": 78.38
   }
 ]
